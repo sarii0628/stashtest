@@ -8,4 +8,4 @@ foreach ($cats as $cat) {
         $catstr = $catstr." and ";
     }
 }
-echo "my pets are $dog and $catstr";
+echo "my pets are $dog (female) and $catstr (male)";
